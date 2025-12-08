@@ -2,6 +2,7 @@
 
 An unsupervised machine learning project that discovers tactical role archetypes for midfielders using Football Manager 2024 (FM24) data. This project applies Principal Component Analysis (PCA) and Gaussian Mixture Models (GMM) to identify distinct midfielder roles based on player attributes.
 
+### Live Link: https://player-role-dashboard.streamlit.app/
 ## Overview
 
 This project analyzes midfielder players from top football leagues using FM24 data to uncover hidden tactical role patterns. By clustering players based on their normalized attribute profiles, we identify 5 distinct midfielder archetypes that represent different tactical roles and playing styles.
