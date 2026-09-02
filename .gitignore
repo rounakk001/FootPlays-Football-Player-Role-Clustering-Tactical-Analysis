@@ -61,3 +61,9 @@ Thumbs.db
 # === IDE ===
 .vscode/
 .idea/
+
+# === Frontend ===
+node_modules/
+.next/
+out/
+*.env.local
